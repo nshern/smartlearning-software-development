@@ -38,7 +38,11 @@
 - A microservice is responsible for one and only one capability in the overall system e.g.:
   - A microservice has a single responsibility
   - That responsibility is for a capability
+- single responsibility principle has been stated in several ways e.g.
+  - > "A class should only have one reason to change"
 
 
 
-  [^1]: Nicole Forsgren, Gene Kim, and Jez Humble. Accelerate. IT Revolution Press: 2018. & Nicole Forsgren, Dustin Smith, Jez Humble, and Jessie Frazelle, “Accelerate: State of DevOps 2018,” https://inthecloud.withgoogle.com/state-of-devops-18/dl-cd.html
+
+  [^1]: Nicole Forsgren, Gene Kim, and Jez Humble. Accelerate. IT Revolution Press: 2018.
+Nicole Forsgren, Dustin Smith, Jez Humble, and Jessie Frazelle, “Accelerate: State of DevOps 2018,” https://inthecloud.withgoogle.com/state-of-devops-18/dl-cd.html

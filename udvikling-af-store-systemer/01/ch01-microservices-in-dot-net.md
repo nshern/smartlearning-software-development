@@ -28,7 +28,7 @@
     - malleable
     - scalable
     - robust
-  - allow for systems that do well on these four key metrics[^1] 
+  - allow for systems that do well on these four key metrics[^1] [^2]
     - Deployment frequency
     - Lead time for changes
     - Time to restore service
@@ -44,5 +44,5 @@
 
 
 
-[^1]: - Nicole Forsgren, Gene Kim, and Jez Humble. Accelerate. IT Revolution Press: 2018.
-  - Nicole Forsgren, Dustin Smith, Jez Humble, and Jessie Frazelle, “Accelerate: State of DevOps 2018,” https://inthecloud.withgoogle.com/state-of-devops-18/dl-cd.html
+[^1]: Nicole Forsgren, Gene Kim, and Jez Humble. Accelerate. IT Revolution Press: 2018.
+[^2]: Nicole Forsgren, Dustin Smith, Jez Humble, and Jessie Frazelle, “Accelerate: State of DevOps 2018,” https://inthecloud.withgoogle.com/state-of-devops-18/dl-cd.html

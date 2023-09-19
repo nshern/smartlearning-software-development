@@ -41,7 +41,6 @@
 
 
 
-  [^1]:
-    - Nicole Forsgren, Gene Kim, and Jez Humble. Accelerate. IT Revolution Press: 2018.
-    - Nicole Forsgren, Dustin Smith, Jez Humble, and Jessie Frazelle, “Accelerate: State of DevOps 2018,” https://
+  [^1]: - Nicole Forsgren, Gene Kim, and Jez Humble. Accelerate. IT Revolution Press: 2018.
+        - Nicole Forsgren, Dustin Smith, Jez Humble, and Jessie Frazelle, “Accelerate: State of DevOps 2018,” https://
 inthecloud.withgoogle.com/state-of-devops-18/dl-cd.html
